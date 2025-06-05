@@ -1,0 +1,802 @@
+{
+  "device": {
+    "vendor": "Dygma",
+    "product": "Defy",
+    "keyboardType": "wireless",
+    "displayName": "Dygma Defy wireless",
+    "urls": [
+      {
+        "name": "Homepage",
+        "url": "https://www.dygma.com/defy/"
+      }
+    ]
+  },
+  "language": "en-US",
+  "layerNames": [
+    {
+      "id": 0,
+      "name": "L1"
+    },
+    {
+      "id": 1,
+      "name": "L2"
+    },
+    {
+      "id": 2,
+      "name": "L3"
+    },
+    {
+      "id": 3,
+      "name": "L4"
+    },
+    {
+      "id": 4,
+      "name": "L5"
+    },
+    {
+      "id": 5,
+      "name": "L6"
+    },
+    {
+      "id": 6,
+      "name": "L7"
+    },
+    {
+      "id": 7,
+      "name": "L8"
+    },
+    {
+      "id": 8,
+      "name": "L9"
+    },
+    {
+      "id": 9,
+      "name": "L10"
+    }
+  ],
+  "keymap": [
+    {
+      "keyCode": 53,
+      "label": "`"
+    },
+    {
+      "keyCode": 53981,
+      "label": "1",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53982,
+      "label": "2",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53983,
+      "label": "3",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53984,
+      "label": "4",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53985,
+      "label": "5",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53986,
+      "label": "6",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 53987,
+      "label": "7",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53988,
+      "label": "8",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53989,
+      "label": "9",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53990,
+      "label": "0",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53991,
+      "label": "-",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53992,
+      "label": "=",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
+    },
+    {
+      "keyCode": 43,
+      "label": "TAB"
+    },
+    {
+      "keyCode": 2068,
+      "label": "Q",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2074,
+      "label": "W",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2057,
+      "label": "F",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2067,
+      "label": "P",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2053,
+      "label": "B",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 53996,
+      "label": "[{(",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 53993,
+      "label": "Page ",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 2061,
+      "label": "J",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2063,
+      "label": "L",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2072,
+      "label": "U",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2076,
+      "label": "Y",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 51,
+      "label": ";"
+    },
+    {
+      "keyCode": 49,
+      "label": "\\"
+    },
+    {
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
+    },
+    {
+      "keyCode": 2052,
+      "label": "A",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2069,
+      "label": "R",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2070,
+      "label": "S",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2071,
+      "label": "T",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2058,
+      "label": "G",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 53997,
+      "label": "]})",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 53994,
+      "label": "Page ",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 2064,
+      "label": "M",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2065,
+      "label": "N",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2056,
+      "label": "E",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2060,
+      "label": "I",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2066,
+      "label": "O",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 52,
+      "label": "'"
+    },
+    {
+      "keyCode": 49154,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "shift",
+          "direction": "Left",
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "verbose": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "shift",
+          "direction": "Left",
+          "size": "sm"
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 2077,
+      "label": "Z",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2075,
+      "label": "X",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2054,
+      "label": "C",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2055,
+      "label": "D",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2073,
+      "label": "V",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 2062,
+      "label": "K",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 2059,
+      "label": "H",
+      "extraLabel": ""
+    },
+    {
+      "keyCode": 54,
+      "label": ","
+    },
+    {
+      "keyCode": 55,
+      "label": "."
+    },
+    {
+      "keyCode": 56,
+      "label": "/"
+    },
+    {
+      "keyCode": 49158,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "shift",
+          "direction": "Right",
+          "size": "sm"
+        },
+        "_owner": null
+      },
+      "verbose": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "modifier": "shift",
+          "direction": "Right",
+          "size": "sm"
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 226,
+      "label": "LEFT ⌥",
+      "verbose": "Left Option"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 41,
+      "label": "ESC"
+    },
+    {
+      "keyCode": 44,
+      "label": "SPACE"
+    },
+    {
+      "keyCode": 43,
+      "label": "TAB"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 17501,
+      "label": "",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "type": "lock",
+          "layerNumber": 10
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 54108,
+      "label": "LEVEL",
+      "extraLabel": "BATT."
+    },
+    {
+      "keyCode": 79,
+      "label": "→"
+    },
+    {
+      "keyCode": 81,
+      "label": "↓"
+    },
+    {
+      "keyCode": 80,
+      "label": "←"
+    },
+    {
+      "keyCode": 51514,
+      "label": "ENTER",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 2
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 51774,
+      "label": "SPACE",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 3
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 52028,
+      "label": "BACKSPACE",
+      "extraLabel": {
+        "key": null,
+        "ref": null,
+        "props": {
+          "layerNumber": 4
+        },
+        "_owner": null
+      }
+    },
+    {
+      "keyCode": 82,
+      "label": "↑"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    }
+  ],
+  "colormap": [
+    7,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    7,
+    8,
+    8,
+    8,
+    8,
+    8,
+    1,
+    10,
+    3,
+    11,
+    9,
+    6,
+    8,
+    1,
+    5,
+    8,
+    8,
+    8,
+    8,
+    8,
+    15,
+    15,
+    10,
+    10,
+    10,
+    15,
+    2,
+    3,
+    10,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    7,
+    7,
+    8,
+    8,
+    8,
+    8,
+    1,
+    7,
+    3,
+    11,
+    9,
+    6,
+    8,
+    1,
+    5,
+    7,
+    7,
+    7,
+    8,
+    8,
+    12,
+    4,
+    10,
+    10,
+    10,
+    4,
+    4,
+    4,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
+    15
+  ],
+  "palette": [
+    {
+      "r": 255,
+      "g": 196,
+      "b": 0,
+      "rgb": "rgb(255, 196, 0)"
+    },
+    {
+      "r": 120,
+      "g": 239,
+      "b": 131,
+      "rgb": "rgb(120, 239, 131)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(255, 255, 255)"
+    },
+    {
+      "r": 231,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(231, 255, 0)"
+    },
+    {
+      "r": 0,
+      "g": 254,
+      "b": 234,
+      "rgb": "rgb(0, 254, 234)"
+    },
+    {
+      "r": 0,
+      "g": 52,
+      "b": 255,
+      "rgb": "rgb(0, 52, 255)"
+    },
+    {
+      "r": 255,
+      "g": 0,
+      "b": 232,
+      "rgb": "rgb(255, 0, 232)"
+    },
+    {
+      "r": 87,
+      "g": 164,
+      "b": 255,
+      "rgb": "rgb(87, 164, 255)"
+    },
+    {
+      "r": 144,
+      "g": 19,
+      "b": 254,
+      "rgb": "rgb(144, 19, 254)"
+    },
+    {
+      "r": 239,
+      "g": 219,
+      "b": 255,
+      "rgb": "rgb(239, 219, 255)"
+    },
+    {
+      "r": 214,
+      "g": 129,
+      "b": 255,
+      "rgb": "rgb(214, 129, 255)"
+    },
+    {
+      "r": 255,
+      "g": 9,
+      "b": 0,
+      "rgb": "rgb(255, 9, 0)"
+    },
+    {
+      "r": 212,
+      "g": 120,
+      "b": 41,
+      "rgb": "rgb(212, 120, 41)"
+    },
+    {
+      "r": 155,
+      "g": 155,
+      "b": 155,
+      "rgb": "rgb(155, 155, 155)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    }
+  ]
+}
